@@ -1,16 +1,13 @@
-### Hi there 👋
+# OSCAR DEV
 
-<!--
-**OscarPab/oscarpab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Oscar Pablo Morales Zuñiga, I am a Front-End programmer, I am currently studying a computer systems engineering, and a one oracle course with alura to be a Back-End programmer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,react,)
+
+
+## 🔗 links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://oscardev.me/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/oscarpab) 
+
